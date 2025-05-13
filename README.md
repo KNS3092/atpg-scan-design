@@ -37,6 +37,5 @@ The goal is to optimize test coverage while balancing area, pin count, and test 
 ## Author
 
 Kaushik Shroff  
-Spring 2025  
-University of Wisconsin–Madison  
+Spring 2025, University of Wisconsin–Madison  
 ECE 553: Testing and Testable Design of Digital Systems
